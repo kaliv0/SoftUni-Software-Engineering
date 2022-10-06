@@ -1,0 +1,15 @@
+/*
+SoftUni's judge system expects html instead of body tag
+
+html {
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+} */
+
+body {
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+

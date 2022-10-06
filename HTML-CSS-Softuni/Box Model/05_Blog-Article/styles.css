@@ -1,0 +1,37 @@
+.main-container {
+    background-color: #02475e;
+}
+
+.main-header {
+    font-size: 36px;
+    color: #fefecc;
+    margin: 12px;
+    text-align: center;
+}
+
+.text-paragraph {
+    font-family: 'Aerial', sans-serif;
+    color: white;
+    text-indent: 30px;
+    line-height: 24px;
+    padding: 10px;
+}
+
+.middle-division {
+    margin-bottom: 30px;
+    border-top: solid 2px #fff;
+    position: relative;
+    top: 20px;
+}
+
+.middle-text {
+    width: 120px;
+    font-size: 14px;
+    text-align: center;
+    padding: 3px 5px;
+    margin: 0 auto;
+    background-color: #fff;
+    display: block;
+    position: relative;
+    top: -11px;
+}
